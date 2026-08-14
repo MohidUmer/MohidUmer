@@ -114,7 +114,6 @@
 │  [appsec]      secure design · API security · attack surface            │
 └─────────────────────────────────────────────────────────────────────────┘
 </pre>
-
 </td>
 <td width="24%" align="center" valign="middle">
 <img src="images/unimpressed-cat.png" width="115"/><br/>
@@ -122,7 +121,9 @@
 </td>
 </tr>
 </table>
-
+<p align="center">
+  <img src="images/banner.gif" width="40%" alt="Mohid Umer banner" />
+</p>
 <p align="center">
   <sub><i>root@mohid~# connection closed.</i></sub>
 </p>
